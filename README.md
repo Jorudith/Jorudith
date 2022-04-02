@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jorudith
+- 👋 Hi, I’m @Jorudith, but you can call me Ryan!
 - 👀 I’m interested in playing games, coding, and learning new stuff!
 - 🌱 I’m currently learning Python, GUIs, SQL, HTML, CSS
 - 📫 You can reach out to me on discord (Jorudith#7539)
